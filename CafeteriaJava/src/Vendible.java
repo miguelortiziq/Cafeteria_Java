@@ -1,2 +1,3 @@
-public class Vendible {
+public interface Vendible {
+    double calcularPrecioFinal();
 }
